@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4011/4472035267_e4fd6e1443_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4015/4472035585_02e57f0884_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2587/4472036223_fc6a9d7eed_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4021/4472814336_679a6379e5_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4069/4472815390_58e5e032a6_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4049/4472035419_d6030f36b9_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3537/5749683373_b8f591e8ed_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3295/2452091765_8599bc0666_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2297/2452090823_ca90ac9137_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3216/2452922334_d9d5dd460f_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4011/4472035267_e4fd6e1443_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4015/4472035585_02e57f0884_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2587/4472036223_fc6a9d7eed_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4021/4472814336_679a6379e5_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4069/4472815390_58e5e032a6_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4049/4472035419_d6030f36b9_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3537/5749683373_b8f591e8ed_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3295/2452091765_8599bc0666_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2297/2452090823_ca90ac9137_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3216/2452922334_d9d5dd460f_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Flachau"/>
+</rdf:Description>
+
+</rdf:RDF>

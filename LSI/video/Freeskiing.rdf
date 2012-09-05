@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=ASkHu18A7fc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Windells Camp: Best of Freeskiing 2008</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Take a look back at the past year of freeskiing at Windells Camp at Mt. Hood, OR. Check out all the action at our private terrain park on the Palmer Glacier on Hood including tons of one-of-a-kind jibs, jumps, bonks, rails, pipes and other features. Featuring pro riders Tom Wallisch, Liam Downey, Tanner Hall, Tim Durtschi, Grete Elaison and many more! What is Windells Camp? ==================== Its a place in the mountains to experience unstoppable camp fun! Its a place to make friends, a place to ride with the pros, a place with the friendliest staff, and a place with the best superpipes, kickers and rails. Its a place where beginners to experts can fine-tune their skills. By complimenting our incredible on-hill program with an abundance of off-hill activities, weve formulated the perfect solution to all your camp needs. Snowboarding And Skiing ==================== Winter and Spring Camps ------------------------- With access to three resorts on Mt. Hood you can bet the snow is always good for whatever type of riding youre into. We offer winter/spring ski and snowboard camps form December to April. These sessions are jam packed with deep powder and the best parks in the country. Weekend Warriors ------------------------- Windells Weekend Warriors program is designed to help you take your riding to the next level all season long. Weekend Warriors get coaching from our pro staff every weekend for the entire season. Along with full access to our indoor dry-land training and &lt;b&gt;...&lt;/b&gt;</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/ASkHu18A7fc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">258</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=TpuHCGl0O6Q">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Salomon Freeski TV S5 E01 La Niña</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">La Niña (the 'little girl' in spanish) is an oceanic phenomenon that delivered western North America the coldest and snowiest winter anyone can remember. It also makes this episode of Salomon Freeski TV the deepest one yet. According to all climate predictions, she's back for the 2011/12 season. We hope you like your powder deep! Music by MF/MB</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/TpuHCGl0O6Q/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">390</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=7NZJLbqfZRE">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Ultimate freeskiing competition - Red Bull Cold Rush</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Red Bull Cold Rush returned to Red Mountain Resort on February 8 and 9, and 20 of the world's best freeskiers competed for the title of most versatile and best all-around skier. For more info visit www.redbull.ca</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/7NZJLbqfZRE/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=r2k6kn6DMok">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Best Of Freeskiing</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Freestyle Skiing Video</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/r2k6kn6DMok/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=ZV3SgtBHeKI">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Tom Wallisch Winning Run - Freeski Slopestyle - Nike Open - 2011 Winter Dew Tour</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Watch Tom Wallisch's winning run during the Freeski Slopestyle Finals at the Nike Open 2011 in Breckenridge, CO</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/ZV3SgtBHeKI/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">195</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=DNWnjfpuhmg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Snowpark Schöneben - Best of season 2010/2011 Freeski</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Snowpark Sch?neben has been one of the most recognized new parks last year, due to its creative course and the marvellous surroundings. Many snowboarders visited the south tyrolean valley and we edited a snowboard best of last season. Hope you like it as much as we do! www.snowpark-schoeneben.com www.snowpark-schoeneben.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/DNWnjfpuhmg/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=csqurHJSTC4">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Salomon Freeski TV Season 5 Teaser</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">www.salomonfreeski.com A sneak preview of Season 5 - Salomon Freeski TV. The first episode drops October 11th. Make sure to mark it down. Powder is guaranteed. ; )</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/csqurHJSTC4/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=eX564wM05SY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Freeski Big Drop Fat Freerider Ski World Record jump</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">A Freeskier takes a drop over 200 feet...</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/eX564wM05SY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=oCcEPL-X48Q">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Big mountain free skiing competition - Red Bull Cold Rush 2012</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The competitors reviewed all their runs, the votes were tallied, and the athletes have spoken in the peer-judged competition. Dane Tudor and Rachael Burks have been named Best Overall Men's and Women's skiers respectively at Red Bull Cold Rush. Red Bull Cold Rush, a 3-day backcountry freeskiing competition, returned for a second year at its stateside home of Silverton Mountain in Colorado to host the world's best athletes at a competition for the title of best all-around skier. redbullusa.com Subscribe www.youtube.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/oCcEPL-X48Q/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">291</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Ahk48h7P4ts">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Salomon Freeski TV S4 E16 Wave Skiing 2.0: JAWS</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Chuck Patterson is a former pro Freeskier, a professional Waterman, and one of the most fearless humans we've ever met. After a brief experiment with skiing on waves several years ago, Chuck's passion for the idea was re-lit after watching Mike Douglas and Cody Townsend ski the waves of Maui in 2009. In January 2011, Chuck followed the biggest swell of the year to Maui, to see if he could see if he could successfully ski Pe'ahi or 'Jaws' -- one of the most powerful waves on earth. Mike and Cody experiment: www.youtube.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/Ahk48h7P4ts/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">318</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=ASkHu18A7fc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=TpuHCGl0O6Q">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=7NZJLbqfZRE">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=r2k6kn6DMok">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=ZV3SgtBHeKI">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=DNWnjfpuhmg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=csqurHJSTC4">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=eX564wM05SY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=oCcEPL-X48Q">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Ahk48h7P4ts">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+</rdf:RDF>

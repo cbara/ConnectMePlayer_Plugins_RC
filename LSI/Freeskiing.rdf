@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2443/3890297792_45dac531b9_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2467/4004934840_ca3cef7e22_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2575/4004901492_204c76c559_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4042/4369220010_0f8529a529_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4068/4369218740_540e97f84a_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4046/4369219650_e2693d1176_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2477/4004894664_3a36465867_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2616/4004919150_48be312d25_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2620/4004847244_02fe1ebec6_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2489/4004833372_9a15d4e8e8_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2443/3890297792_45dac531b9_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2467/4004934840_ca3cef7e22_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2575/4004901492_204c76c559_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4042/4369220010_0f8529a529_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4068/4369218740_540e97f84a_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4046/4369219650_e2693d1176_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2477/4004894664_3a36465867_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2616/4004919150_48be312d25_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2620/4004847244_02fe1ebec6_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2489/4004833372_9a15d4e8e8_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Freeskiing"/>
+</rdf:Description>
+
+</rdf:RDF>

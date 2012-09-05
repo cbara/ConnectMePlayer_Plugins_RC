@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=28wbI73IVvQ">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">White Water Rafting Victoria Falls</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal"></description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/28wbI73IVvQ/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=QmZorNnNJeE">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">White Water Rafting Japan ラフティング</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Kiotsu River is one of the most challenging rivers in Japan and a well-kept secret up until now. It's about 10 miles (16kms) of constant 2-6 grade white water with spectacular scenery. On this trip were 11 rafting guides from 5 different companies plus myself. Thanks to Lincoln at Green Discovery Japan for organizing the trip. Check out Lincoln's video of the same day here: youtu.be The Guides: Lincoln, Momi, Som, Haruna, Shingo, Ugai, Mirich, Tohru, Tuka, Bun Bun, &amp; Yihki. Photos of the trip are here: www.facebook.com _______________________________________ Fun companies for Outdoor Adventures in Japan: BIG WAVE. bigwaverafting.com Green Discovery. www.greendiscoveryjapan.com Kappa Club. www.kappa-club.com Uncle Bear. www.uboutdoor.com Top Minakami. www.topminakami.com Evergreen. www.evergreen-hakuba.com Nepal Paddle Nepal www.paddlenepal.com Laos Green Discovery www.greendiscoverylaos.com Canada Fraser River Raft Expeditions www.fraserraft.com -------------------------------------------------------------------------- Music by Kevin MacLeod: incompetech.com Exit song by: www.youtube.com --------------------------------------------------------------------------</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/QmZorNnNJeE/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=PEp22TMpoHA">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Whitewater Rafting (Beast of the East)</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">White water rafting on the Gauley river in West Virginia. Rated #7 in the world, this river is crazy! One of the "must do" before your old things.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/PEp22TMpoHA/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=61ZWyYzqHis">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">White Water Rafting - Volvo Ocean Race 2011-12</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Catch up with Ryan Godfrey, Helmsman/Trimmer on PUMA Ocean Racing powered by BERG, as he took time out from his busy schedule to go white water rafting. Expect more like this to be uploaded to the Official Volvo Ocean Race YouTube Channel in the future. Get all the latest updates on www.VolvoOceanRace.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/61ZWyYzqHis/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=YyhpyCJZI4k">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Zambezi white water rafting goes wrong!!!</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Collision with safety raft! Broken oar (2:37)! Stuck between rocks! A world challenge trip down the famous whitewater class 5 rapids of the zambezi river!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/YyhpyCJZI4k/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=eda3f4Xp338">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Pigeon River Rafting Near Gatlinburg, Tennessee</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Located near Gatlinburg, Pigeon Forge and Sevierville, Pigeon River whitewater rafting is the most popular activity in the Smokies. This video shows the Upper (or the "Big") Pigeon River, which offers exciting splashy class III-IV rapids for kids 8 and older. Expect big waves and fast moving water! NOC also rafts the Lower Pigeon River, which is a bit more tame. Kids as young as 3 years old are welcome on the Lower Pigeon float trips. The river trip skirts the border of Great Smoky Mountains National Park, and is very close to the popular Big Creek picnic area. Rafters only need about two and a half hours for the whole experience, so it's a very convenient fit for most vacations. More information is available here: www.noc.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/eda3f4Xp338/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=bi6C3kyP4mU">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Rafting: Outsourced</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Everyone knows the biggest problem with the whitewater industry: staffing. At long last, rafting companies are able to take advantage of the power of outsourcing to dramatically improve the experience of their guests.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/bi6C3kyP4mU/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=rarETAaC-rc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">'Rafting Gone Wild' event draws thousands</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">KCRA 3's Mallory Hoff reports from River Bend Park in Sacramento County where thousands of people packed the American River for the second "Rafting Gone Wild" event.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/rarETAaC-rc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=VSg03laqrhI">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Juggers swimming and rafting on a river</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Put some juggers on a raft with some beer and chips...good times to follow. Our Labor Day Weeking camping trip we spent some time relaxing on the river between cave dive locations. Looking for a great place to scuba dive, cave dive, camping out, floating down a river...this is the place. A lot of UF students go here to party and have fun since it's so close to Gainesville and the University of Florida. Since it's not actually a state park, alcohol is allowed and makes for some good times and of course video...you might even see a gator...go gators</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/VSg03laqrhI/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">198</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=0d6rVibAE9I">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Teva World Rafting Championship 2010</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">For more information visit www.sportscene.tv</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/0d6rVibAE9I/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3220</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=28wbI73IVvQ">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=QmZorNnNJeE">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=PEp22TMpoHA">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=61ZWyYzqHis">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=YyhpyCJZI4k">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=eda3f4Xp338">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=bi6C3kyP4mU">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=rarETAaC-rc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=VSg03laqrhI">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=0d6rVibAE9I">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+</rdf:RDF>

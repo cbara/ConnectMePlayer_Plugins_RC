@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7175/6532313059_10f932388e_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7161/6532319013_d7d315a1e8_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7015/6532323697_a37af27e26_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7001/6532316737_44a4bb2d86_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7163/6532407937_804bf2a978_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7009/6532314011_06a4005dd8_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7152/6532317477_7b9273fec9_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7222/7216340284_99e310c308_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7007/6532431005_e4368e6c38_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7149/6532394417_9c973bff71_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7175/6532313059_10f932388e_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7161/6532319013_d7d315a1e8_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7015/6532323697_a37af27e26_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7001/6532316737_44a4bb2d86_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7163/6532407937_804bf2a978_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7009/6532314011_06a4005dd8_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7152/6532317477_7b9273fec9_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7222/7216340284_99e310c308_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7007/6532431005_e4368e6c38_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7149/6532394417_9c973bff71_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+</rdf:RDF>

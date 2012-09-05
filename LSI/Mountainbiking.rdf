@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2163/3533614904_f8bda85d77_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3631/3533614782_6b80267afc_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3398/3532796525_a9f3f228ed_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2372/3532796865_9f66321737_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2231/3532796693_2e016cd6df_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6199/6052159785_e9c563a67a_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6190/6052712926_9ecb7e6705_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6209/6052711622_f9879512b0_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6203/6052708834_3f612a820b_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3397/3533614984_8c4b7f94ca_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2163/3533614904_f8bda85d77_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3631/3533614782_6b80267afc_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3398/3532796525_a9f3f228ed_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2372/3532796865_9f66321737_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2231/3532796693_2e016cd6df_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6199/6052159785_e9c563a67a_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6190/6052712926_9ecb7e6705_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6209/6052711622_f9879512b0_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6203/6052708834_3f612a820b_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3397/3533614984_8c4b7f94ca_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+</rdf:RDF>

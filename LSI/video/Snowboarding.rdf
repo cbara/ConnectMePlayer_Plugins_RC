@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=c33RUIJ6fYc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Snowboarding - The Best</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">*READ ALL* A video I put together for all them people who love to snowboard Footage taken from the film "First Descent" PLEASE NOTE AS WELL Song is only temporary seeing as they took away rights to the original.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/c33RUIJ6fYc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">192</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=kh29_SERH0Y">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Art of FLIGHT - snowboarding film trailer w/Travis Rice</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Soundtrack available here: goo.gl The song is a collaboration between Anthony Gonzalez from M83 and Curt Morgan from Brain Farm. Artist: The Three Corners of The Earth Title: "The Fire Shall Devour Us" Download it here: itunes.apple.com Just when you thought the producers of "That's It, That's All" couldn't top themselves comes a new breed of snowboarding entertainment. The Art of FLIGHT follows Travis Rice, John Jackson, Mark Landvik, Scotty Lago, Jake Blauvelt, Nicolas Muller, Gigi Ruf, DCP and Pat Moore as they dream up new global adventures and progress the sport to unimaginable levels. Brain Farm has gathered an arsenal of the most advanced and progressive film making technology to bring the masses a snowboarding adventure of epic proportions. Filmed on location in Jackson Hole, Alaska, Chile, Aspen, Patagonia, British Columbia and more, FLIGHT brings the viewer along for the perfect blend of adventure/travel drama and high-energy snowboarding action. The Art of FLIGHT releases September 2011. Buy and rate the movie here! win.gs RedBullUSA.com http BrainFarmCinema.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/kh29_SERH0Y/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=gnVupEzu59g">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">snowboard</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">thank pheelgoodinc for making these snowboard videos im jus advertising them to u snowboarding lovers go to mthigh best place to go and closest the song is how we do go to my profile and see more awesome videos Promotional use only. Copyright infringement not intended.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/gnVupEzu59g/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">193</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Livlwz7cSDc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Red Bull Supernatural - One of a kind snowboard competition - NBC Signature Series</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">SUPER, NATURAL is a registered trademark of the Province of British Columbia. The Red Bull Supernatural event was not affiliated with or endorsed by the Province of British Columbia Under bright, bluebird skies, 18 of the world's most notable up-and-comers alongside the icons of snowboarding progressed the sport to a new level, as Red Bull Supernatural ran at Baldface Lodge outside of Nelson, BC, Canada. From the first rider to drop, Scotty Lago, through Travis Rice's final run, the never before ridden Red Bull Supernatural course challenged every aspect of the competitors' talents, bringing the most progressive riding of our time together in a single run. redbullusa.com Subscribe www.youtube.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/Livlwz7cSDc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Rs_wKkXCwDw">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">GoPro HD HERO camera: The Snowboard Movie</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Learn about the new GoPro HD HERO® camera at gopro.com. GoPro invades the Breckenridge Dew Tour. Stunning snowboarding footage captured at 720p at 60 fps and 960p. Shot entirely with the HD HERO camera using GoPro's helmet, headstrap, chest and handlebar mount clamped onto a ski pole. Music "Wake" - Finn Riggins www.finnriggins.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/Rs_wKkXCwDw/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">242</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=PaYktLq3yDw">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Pingu Snowboarding</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Pingu and Robbie go snowboarding. 27th June, 2009: One million views!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/PaYktLq3yDw/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">302</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=_2rJoIhgWmw">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Russian Crow Rooftop Snowboarding</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal"></description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/_2rJoIhgWmw/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=nRwiwgqUtVc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Best Of The 2010 Snowboarding Videos [HD]</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Check out my snowboarding lifestyle blog - www.bckcntry.com Song - The Parable Of Math by B. Hantoot. Free download @ bhantoot.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/nRwiwgqUtVc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">201</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=-bx4T-MdZ9w">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Learn How To Snowboard</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">members.SnowboardingForNewbies.com Learn how to snowboard following our step-by-step video instruction system. Watch and learn as we teach totally newbie students how to shred (snowboarding talk for riding down the mountain without eating too much snow). Whether you are a novice or want to take your riding to the next level, or want to refer your friends or girlfriend to a complete learn how to snowboard system: check out SnowboardingForNewbies.com SnowboardingForNewbies.com Visit our website for free tutorials and videos.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/-bx4T-MdZ9w/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=gfTXUWlJCxk">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Shaun White - amazing snowboarding performance</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Shaun White - amazing snowboarding performance i bought "best of X Games on DVD" so i think now i can upload it after that. I paid for it first. enjoy it. i can not stop playing it daily!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/gfTXUWlJCxk/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=c33RUIJ6fYc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=kh29_SERH0Y">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=gnVupEzu59g">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Livlwz7cSDc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Rs_wKkXCwDw">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=PaYktLq3yDw">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=_2rJoIhgWmw">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=nRwiwgqUtVc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=-bx4T-MdZ9w">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=gfTXUWlJCxk">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+</rdf:RDF>

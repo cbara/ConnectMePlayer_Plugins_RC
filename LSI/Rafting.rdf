@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3020/2493093376_5af0c15e15_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4051/4509007608_1589960a06_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/73/220804259_8762add321_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm6.static.flickr.com/5098/5546372124_bab6a4eed2_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7021/6643589239_8259990429_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2597/3926551244_db5fe46c2f_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm6.static.flickr.com/5186/5594582603_6ed7da5868_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3336/3601430971_08ab656ea8_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3050/2562098100_5122b1a448_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3167/2562158200_780f8620da_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3020/2493093376_5af0c15e15_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm5.static.flickr.com/4051/4509007608_1589960a06_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/73/220804259_8762add321_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm6.static.flickr.com/5098/5546372124_bab6a4eed2_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7021/6643589239_8259990429_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2597/3926551244_db5fe46c2f_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm6.static.flickr.com/5186/5594582603_6ed7da5868_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3336/3601430971_08ab656ea8_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3050/2562098100_5122b1a448_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3167/2562158200_780f8620da_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Rafting"/>
+</rdf:Description>
+
+</rdf:RDF>

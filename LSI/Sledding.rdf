@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://farm6.static.flickr.com/5128/5275197256_e5659e62fd_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7195/6969181773_c083b4fab1_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2487/4259716886_4878957b6f_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm2.static.flickr.com/1114/4600436019_8c0fbddc41_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/81/245770977_d7a891316e_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2762/4293097174_5455c065c6_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3527/3272354542_cb3fd2d948_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3458/3399662000_ddb2bfaa92_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3433/3399661890_5ef1059257_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2297/2285834928_9a51b80fe4_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm6.static.flickr.com/5128/5275197256_e5659e62fd_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm8.static.flickr.com/7195/6969181773_c083b4fab1_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2487/4259716886_4878957b6f_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm2.static.flickr.com/1114/4600436019_8c0fbddc41_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/81/245770977_d7a891316e_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2762/4293097174_5455c065c6_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3527/3272354542_cb3fd2d948_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3458/3399662000_ddb2bfaa92_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm4.static.flickr.com/3433/3399661890_5ef1059257_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2297/2285834928_9a51b80fe4_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+</rdf:RDF>

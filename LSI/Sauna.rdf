@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/134/318803389_1bfbb6b0e9_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6058/6370075791_c260a2760c_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6225/6370094825_cdc184720d_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6107/6370084733_9f25c81959_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6038/6370052573_af5edbb0db_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2544/4103503626_d71d27dab2_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2775/4103499846_2b43eaee92_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/180/387848525_0bb0b8ff2e_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/30/35897544_1a5be943f7_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/42/83523527_3552277f4e_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/134/318803389_1bfbb6b0e9_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6058/6370075791_c260a2760c_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6225/6370094825_cdc184720d_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6107/6370084733_9f25c81959_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm7.static.flickr.com/6038/6370052573_af5edbb0db_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2544/4103503626_d71d27dab2_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm3.static.flickr.com/2775/4103499846_2b43eaee92_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/180/387848525_0bb0b8ff2e_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/30/35897544_1a5be943f7_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://farm1.static.flickr.com/42/83523527_3552277f4e_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+</rdf:RDF>

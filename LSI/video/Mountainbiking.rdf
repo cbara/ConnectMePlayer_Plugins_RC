@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=0zLuqKNKOqs">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">If Only Every Mountain Biking Video Was Shot Like This - Afrojacks.flv</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal"></description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/0zLuqKNKOqs/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">251</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=93UzcOVdYPM">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Extreme Mexican Mountain Biking</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Extreme Mexican Mountain Biking High-speed mountain biking down the narrow alleys of Taxco, Mexico - it's the 'Down The Hill' race 2005. Where else to find Diagonal View... FOLLOW us on Twitter: ow.ly or LIKE us on Facebook: ow.ly Check out, our other stunts in this play list @ www.youtube.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/93UzcOVdYPM/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=TaNBuqSuNqk">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Radwanderung...</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">...und a bisserl Northshore ;-) mit Loschi und Pauli Song: Ghostwriter by RJD2</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/TaNBuqSuNqk/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">298</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=mVggF4USwrI">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Mountainbiken</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Zillertal Arena, Zell, Gerlos, Wald - Königsleiten, Mountainbiken, Radfahren, Sommer</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/mVggF4USwrI/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=SAmVoFFs28A">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Mountain Biking Community - Strength in Numbers - Whistler</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Song: goo.gl Get the full film and support the filmmakers: goo.gl or visit anthillfilms.com Available now on DVD+BluRay : www.pinkbike.com and iTunes: goo.gl worldwide. Share this video and help spread the stoke of mountain biking facebook.com twitter.com #strengthinnumbers</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/SAmVoFFs28A/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">317</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=6c7EcnG5p4g">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">High Alpine Singletrack Mountain Biking - Strength in Numbers - Switzerland</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Get the full film and support the filmmakers: goo.gl or visit anthillfilms.com Available now on DVD+BluRay : www.pinkbike.com and iTunes: goo.gl worldwide. Share this video and help spread the stoke of mountain biking facebook.com twitter.com #strengthinnumbers Song: "Write It All Down for You" by Elliot Brood Soundtrack: goo.gl</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/6c7EcnG5p4g/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">293</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=jrxgTXfiA4k">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">[MTB] Mountainbike Freeride Mix in HD</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">A mix of mountainbike freeride downhill runs and stunts! As always some sonwmobile jumps are also included :-) Tracklist: Burns - Turbo (Jokers of the scene rmx) Fortune - Bully (Dj Sega rmx) Plastikman - Spastik (original mix) Felix da Housecat - Kickdrum (original mix) Major Lazer - Mi Pon da Floor (original mix) DIM &amp; TAI - Lyposuct (original mix) If you want the whole mixtape, its legaly &amp; free available here: www.boysnoize.com or directly here www.mediafire.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/jrxgTXfiA4k/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">600</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=zlCpUXiMdzM">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Aerial Mountain Biking</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">HeliPOV edit of Jamie Johnson mountain biking at Farmer John's (Peak District in the UK). All filmed from the remote heli using a Canon 550d. Subscribe for new edits coming soon. Music: Yes Yes Yall By: Tab and Anitek Album: The Freakout Tent</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/zlCpUXiMdzM/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=YK3oglVmV3A">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Freeride Mountain Biking Bodensee</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Kleines Freeride Video vom Bodensee. Spots: Nesselwangen, Haldenhof Sipplingen Riders: Dirty Phil &amp; Mr. Moe Song: 3 alias Te - Latest Fashion ______________________________________________ Freeride Mountain Bike freeride bodensee bike bodensee biking bodensee Freeride Downhill Mountain...</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/YK3oglVmV3A/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=XByI0ifNXgY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Pure Free Ride Mountain Biking - Strength in Numbers - Utah</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Get the full film and support the filmmakers: goo.gl or visit anthillfilms.com SONG: Rage Against the Machine - "Guerrilla Radio" - Buy it here: goo.gl Mountain biking in Utah's desert -- that means freeriding in the ultimate meaning of the name. Far away from civilization between rattlesnakes and tons of loose bed load you will neither find shaped trails nor defined lines. It is all about finding your way down, anyhow Share this video and help spread the stoke of mountain biking facebook.com twitter.com #strengthinnumbers __________________________________________________ Experience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and YouTube exclusive series, prepare for your "stoke factor" to be at an all time high. Red Bull on Facebook: win.gs Red Bull on Twitter: win.gs Subscribe to Red Bull on Youtube: www.youtube.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/XByI0ifNXgY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">406</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=0zLuqKNKOqs">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=93UzcOVdYPM">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=TaNBuqSuNqk">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=mVggF4USwrI">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=SAmVoFFs28A">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=6c7EcnG5p4g">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=jrxgTXfiA4k">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=zlCpUXiMdzM">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=YK3oglVmV3A">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=XByI0ifNXgY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Mountainbiking"/>
+</rdf:Description>
+
+</rdf:RDF>

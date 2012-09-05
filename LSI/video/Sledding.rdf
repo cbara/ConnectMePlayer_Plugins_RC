@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=VKyZymbLPUw">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Extreme Sledding</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Sledding through a tunnel dug through a cornice at the top of a steep hill in Fairview canyon, Utah.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/VKyZymbLPUw/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">243</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=mRnI4dhZZxQ">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Sledding Crow In Russia</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Crow roof tubing (Ворона катается с крыши) Learning gravity. Поймали интересный кадр Sledding crow in Russia soars to Internet stardom Crows are presumed to be reasonably intelligent, and they often exhibit playful behavior. But do they like to go sledding on the snow? The accompanying video shows a crow in Russia sliding down a snowy roof while standing atop a jar lid--not once but twice--in an episode that has stormed the web, garnering 2 million views during the past week. It's sort of a clumsy display but in the footage it does seem as though the crow is actually sledding for the mere sensation of doing so. Or are people bird-brains for thinking that? Alexis Madrigal, a senior editor for The Atlantic, put the issue of crows and playful behavior to Alan Kamil at the Center for Avian Intelligence at the University of Nebraska. "It is in keeping with the general reputation of corvids," said Kamil, after watching the video. "I don't know what to make of it scientifically but it is a cool example of a play-like behavior in a corvid." That's about as far as the scientist would crawl onto the limb. "Human beings have a strong, strong, strong tendency that if we see an animal do something that's analogous to what we do, like use a tool or answer an arithmetic question, we assume that the animal is doing it and understands the situation in the same way we do," Kamil added. "And sometimes that's true but more often it's false." Perhaps, but non-scientists aren't so restricted &lt;b&gt;...&lt;/b&gt;</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/mRnI4dhZZxQ/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=hSrirDNwEVM">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">CuteWinFail: Dog Sled</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">This dog gives a whole new meaning to dog sledding. See it. For more CuteWinFail clips subscribe here bit.ly</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/hSrirDNwEVM/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=DbdGCif5z-I">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Sledding in Valemount, BC</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Snowmobiling in Valemount, BC. Climbs, boondocking, a little trees, drops and jumps.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/DbdGCif5z-I/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">355</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=qJxPs_WvmOM">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Dog steals sleds from kids - Funny</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Calvin the dog goes on a rampage and runs off with our sleds! The only way to get them back is to chase him down! Music: Kevin MacLeod (incompetech.com). Filmed December 6, 2008.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/qJxPs_WvmOM/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=85FxLsHU8us">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Swedish airforce sledding fun!</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">www.lptracking.com A holiday greeting! I guess being a neutral country has its benefits.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/85FxLsHU8us/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=oO9Y790H3pA">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">owned by a sled</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Some Canadian Global news reporter thinks the bottom of a sledding hill is a great place to do his broadcast. He was wrong.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/oO9Y790H3pA/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=slGBSZ_LdnU">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Best Sledding Fails: Viral Video Film School</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Don't venture out into the dangerous outdoors to get your sledding fix. Stay indoors and watch other idiots get hurt instead from the comfort of your computer! Brett Erlich shows you the best on 'Viral Video Film School.' Watch infoMania Thursdays at 11/10c on Current TV current.com VIEW more Viral Video Film School &amp; SUBSCRIBE to the YouTube Channel here... www.youtube.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/slGBSZ_LdnU/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=ILDOqppQL-U">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Audi 1 Crash Queen Anne Hill attempt 11-22-2010</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Prospect and Queen Anne Ave Seattle snow day audi double crash. Also see part two ... Newer Audi Hit and Run Audi 2 Crash Queen Anne Hill 98109....</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/ILDOqppQL-U/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=cv2If_a-apE">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Stuck in Vermont 110: Dog Sledding</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">PLEASE WATCH IN HIGH QUALITY! 12/20/08: Ken Haggett and his 18 Peace Pups are a home-grown dog sledding team in Lake Elmore. For years now they have been pulling dog-lovers through the wintry wonderlands of Vermont. Exxon is the alpha dog (left), Dubois is the lead dog who almost died as a pup, and Muddy is a little jumpy. Each Siberian Husky is a complete individual with unique markings, a distinct bark and an urge to RUN. Music: Lowell Thompson: Lowell Thompson, "Let Go" Location: Lake Elmore, Vermont</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/cv2If_a-apE/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">357</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=VKyZymbLPUw">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=mRnI4dhZZxQ">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=hSrirDNwEVM">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=DbdGCif5z-I">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=qJxPs_WvmOM">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=85FxLsHU8us">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=oO9Y790H3pA">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=slGBSZ_LdnU">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=ILDOqppQL-U">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=cv2If_a-apE">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sledding"/>
+</rdf:Description>
+
+</rdf:RDF>

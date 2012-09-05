@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=j76cW_ZkYfQ">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Cats 101: Snowshoe</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Cat Health 101: animal.discovery.com More Cats 101 Video: animal.discovery.com The Snowshoe has the personality of a Siamese with coloring that is all its own--a white face and white feet. Snowshoes are very vocal and affectionate.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/j76cW_ZkYfQ/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=bIylS8VFGcg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">How-to-Snowshoe: Learn the basics from the experts at LLBean</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Snowshoeing is easy and a great way to get outside and enjoy winter. LL Bean product developer Nathan Mack provides an overview of the essential equipment and basic techniques to get you out on the trail this winter. Find your gear: bit.ly</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/bIylS8VFGcg/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=F7b96bQfnjE">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Extreme Snowshoeing</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Destined to change pretty much nothing, we are proud to present the sole shattering sport of 'Xtreme Snowshoeing'. When Berghaus held their annual athlete camp where athletes, product designers and marketing people get together, nobody was expecting this!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/F7b96bQfnjE/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">328</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=SKaxYJHZUv0">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">How to Snowshoe : What to Wear When Snowshoeing</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">When snowshoeing, dress in layers and wear waterproof or water resistant clothing. Learn more about proper clothing for snowshoeing in this free health and fitness video lesson. Expert: Sheryl McGlochlin Contact: www.crazysherl.com Bio: Sheryl McGlochlin loves spending time with her family and extended family. She have completed over 500 hikes in various terrain. Filmmaker: joseph wilkins</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/SKaxYJHZUv0/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=3RSIzMTfX7A">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Making PVC Snowshoes Jan 16, 2010</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Just a few shots to show you how my Boy Scout Troop has been making snowshoes for years. We got the idea from an article in Boy's Life several years ago. You pour hot sand into the PVC pipe, which makes it very flexible. Then put the pipe in a wooden form, remove the sand, and allow it to cool. After it's ridged again, we use steel rods, some webbing material, and truck inner-tubes (for the bindings) to make our snowshoes.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/3RSIzMTfX7A/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=AyVLNbFwCxo">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">How to Snowshoe : How to Walk in Snowshoes</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Get tips on walking in snowshoes, including how to avoid common beginners' mistakes, in this free health and fitness video lesson on snowshoeing. Expert: Sheryl McGlochlin Contact: www.crazysherl.com Bio: Sheryl McGlochlin loves spending time with her family and extended family. She have completed over 500 hikes in various terrain. Filmmaker: joseph wilkins</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/AyVLNbFwCxo/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=5pGSETbN6WE">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Snowshoeing Gear</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Here's a quick video showing some of the stuff I carry on a snowshoe hike. I change gear frequently but here's a little gear porn of what I happened to carry with me on this hike.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/5pGSETbN6WE/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">350</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=z_umpfOYKzA">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">MSR Snowshoes: "Wilderness Choice" by Nutnfancy</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">These are my favorite snowshoes. If the menu for the day's adventure includes some deep snow, maybe icy conditions, and steep terrain, I think you will be pleased with your choice of a MSR Denali or Evo snowshoe. In six years of use I have found nothing to complain about with my Denali Ascent showshoes, having experienced many adventures in them (shown). Rated at 275 lbs I have found they can take a lot more weight too; usually they carry about 300 or so pounds in my multi-day expeditions in the snowy wild. Over snow and ice chunks, falls into snow holes, and brush-induced tangle ups, I have found the MSR plastic decking remarkably durable. No cracks or failures noted. The design for my preferred terrain and conditions is superior: this rigid but flexible plastic decking sheds snow well and allows the attachment of securely-attached STEEL traction teeth around its circumfrence. Where tubular aluminum shoes will go on a "sleigh ride" on icy slopes and have to rely soley upon their center toe cleats for traction, everything about the MSR Denali/Evo series is designed to give grip. Molded in traction bars prevent sliding and MSR Denali/Evo users will be mind-freaked at the traction they can obtain with the design. The 4-strap binding straps are resilent, easy to attach, give good stablilty, and are easily serviced when necessary. The boot opening is large to accommodate fat toes of snow boots. Deep powder characteristics are refined and the shoes require less effort than any &lt;b&gt;...&lt;/b&gt;</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/z_umpfOYKzA/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1769</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=vjg_So1XDxw">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Fight at Snowshoe GNCC 2008</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">I was out shooting the GNCC event when 2 of the riders decided to throw down. The scuffle ends with the two sharing a loving hug.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/vjg_So1XDxw/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=FmgH31zvaXE">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Snowshoeing Surprise!!</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">I finally get my wife to go out snowshoeing for the first time this winter but watch what happens. please excuse the brief use of profanity ;)</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/FmgH31zvaXE/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=j76cW_ZkYfQ">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=bIylS8VFGcg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=F7b96bQfnjE">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=SKaxYJHZUv0">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=3RSIzMTfX7A">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=AyVLNbFwCxo">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=5pGSETbN6WE">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=z_umpfOYKzA">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=vjg_So1XDxw">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=FmgH31zvaXE">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowshoe"/>
+</rdf:Description>
+
+</rdf:RDF>

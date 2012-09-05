@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=pQK9W0juEYY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Dutch Sauna</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Where is the worst place to fart? A hot, sweaty, enclosed, little room. A SAUNA!!! I hope you all enjoy and are not too grossed out!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/pQK9W0juEYY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=si8IqpZc8Fo">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Sauna trailer</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Trailer of the upcoming horror film Sauna.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/si8IqpZc8Fo/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=g9rX8mpVZKA">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Sauna Championships - Finland</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Sauna Championships in Finland promise to be one of the hottest events of the year!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/g9rX8mpVZKA/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=wx0XmRVmDqg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Sauna Endurance Championships</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Prepare to get sweaty. Strange talents, shocking stories, dangerous stunts...see it all here @ www.youtube.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/wx0XmRVmDqg/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=AY4imyS7w38">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Before you go to the SAUNA</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">10 things you do before you go to sauna. Enjoy :-)</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/AY4imyS7w38/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=IiVv4aDHIT4">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">How to Build a Sauna</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The worlds first Sweat Therapy Sauna was completed on 8/6/07! See: www.PsychSymposium.com. What the hell is a Sweat Therapy Sauna, you ask? The Sweat Therapy Sauna was designed specifically for group work. The design was influenced by the Finnish Sauna, the American Indian Sweat Lodge, and modern technology. Like a common sauna, it was built with conventional wood-framed construction with insulation between vertical studs, the interior lined with cedar walls and benches. It is heated with an electric heater. Like an American Indian sweat lodge, the Sweat Therapy Sauna allows people to sit in a circle to promote group cohesion. The heating element is placed in the center. It is windowless to control lighting to promote intimacy and introspection and contains a stereo system to make use of the therapeutic benefits of music. The dimensions of the Sweat Therapy Sauna are 10 x 10 x 7 and can accommodate about 12 people. The 15 KW electric heater is a stainless steel floor model purchased from Finlandia Sauna. Four recessed ceiling lights operate on a dimmer switch. The stereo is a waterproof marine audio system that includes an amplifier, MP3 connector, and four speakers purchased from Poly-Planar. A shower is installed on the outside of the right front wall. This project was a long time in the planning. I completed my doctoral dissertation in 2005 - THE EFFECTS OF SWEAT THERAPY ON GROUP THERAPEUTIC FACTORS AND FEELING STATES. The primary purpose of the study was to examine &lt;b&gt;...&lt;/b&gt;</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/IiVv4aDHIT4/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">228</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=B1yk85znbpY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Sauna - 2011 Doritos Superbowl Commercial Ad</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Sauna - 2011 Doritos Superbowl Comercial Ad by philPRINCEphims Crash the Superbowl here: www.crashthesuperbowl.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/B1yk85znbpY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=vJgby4NClNY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Body Weight Basics : Using a Sauna to Lose Weight</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Using a sauna can help you lose weight by make your body sweat away impurities and excess water weight. Sweat away the pounds with help from a personal trainer and fitness instructor in this free video on fitness. Expert: Sean Weaver Bio: Sean Weaver is a certified personal trainer and fitness instructor and has worked for Genetic Fitness for more than five years. Filmmaker: Joshua Velez Series Description: Learning body weight basics will help you gain muscle mass, maintain your current weight or lose weight, depending on your fitness goals. Challenge yourself with guidance from a physical trainer and fitness instructor in this free video series on fitness.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/vJgby4NClNY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=feo25y8C7LY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">'t Westvlams Gemiengeld Vintekoor - De Sauna</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">'t Westvlams Gemiengeld Vintekoor zingt De Sauna in Kortemark</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/feo25y8C7LY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">239</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=VELQ39QAYP4">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Specsavers 'Sauna' advert</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">www.facebook.com twitter.com A relaxing session in the hotel sauna turns to embarrassment for one poor chap. Who's that lurking behind the steam? The new 'Should've gone to Specsavers' TV advert for Free Varifocal Lenses features world-renowned chef Gordon Ramsay, who's rendered speechless for once when a naked man wanders into his kitchen in the middle of the dinner service. Our hapless and visually challenged hero should be in the sauna; and needless to say, he should've gone to Specsavers. The commercial for the UK opticians was directed by Daniel Kleinman at Rattling Stick. For more information on our Varifocal range of lenses please see www.specsavers.co.uk</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/VELQ39QAYP4/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=pQK9W0juEYY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=si8IqpZc8Fo">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=g9rX8mpVZKA">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=wx0XmRVmDqg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=AY4imyS7w38">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=IiVv4aDHIT4">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=B1yk85znbpY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=vJgby4NClNY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=feo25y8C7LY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=VELQ39QAYP4">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Sauna"/>
+</rdf:Description>
+
+</rdf:RDF>

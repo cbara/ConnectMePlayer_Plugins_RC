@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=va1v6Drp5Gc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">element skateboarding</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Lluvia te quiero mucho !! You're such a beautiful human being. I hope this works out.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/va1v6Drp5Gc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=CQzUsTFqtW0">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Skateboarding Dog</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Tillman the skateboarding bulldog from the iphone commercial. All clips are from January 2007. Tillman was a little over a year old at the time. A little history of this first video. I Filmed the video using a just purchased Panasonic Lumix TZ1. I was bicycling through Venice Beach California when I came upon the skateboarding dog. Originally the first video had the soundtrack "Giving In" by linkin Park. Once the video appeared in iphone commercials I removed the video from youtube because of the attention it was getting and I had no rights to use the song. As time approached for Apple's release of the iphone with youtube, youtube contacted me and requested I reinstate the video without the soundtrack. Youtube wanted users to be able to view the skateboarding dog in the store and after purchasing their iphone. Unfortunately youtube gave me only a few hours to re-edited video before the iphone release. The original background sound on most of the clips was ruined by hysterical laughter from a woman watching Tillman so I cut and pasted sound in from other parts of the video to cover the laughter. That's why some claim they hear the word eskimo over and over-lol. When the original video with the Linkin Park soundtrack was selected it had around 15000 views.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/CQzUsTFqtW0/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=iN1Umj3_bPc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Greatest Skateboarding Tricks - Light as a Feather</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">So much butter it'll give you a heart attack. Tricks in order of appearance: Ryan Sheckler - Gnarly Kickflip over a fence into a Costco parking lot Shane O'neill - nollie 360 double flip cian eades - Switch laser double flip Schuyler Ricketts - huge backside 180 Jimmy Carlin - 360 Hardflip Josiah Gatlyn - big kickflip Chris Haslam - Wall ride bs lip slide Sean Malto - Sick backside over crook Tyler Bledsoe - Big flip over carlsbad grass gap Chris Cole - nollie backside 360 heel flip over big 3 block RIP Shane Cross - insane fs crooked grind down El Toro Bryan Herman - giant hardflip Chris Cole - 360 kickflip to tail snap the Carlsbad gap PROD - Buttery backside kickflip nose blunt David Gravette - Long 5050 Jake Duncombe - 5050 board stall nose grind skate and create PJ Ladd - fakie halfcab heel to K grind nollie fs shove out PJ Ladd - Switch kick flip backside tailslide 360 shove out PJ Ladd Fakie half cab flip crooked grind bs 180 Jimmy Carlin - grande Varial Heel down 6 flat 6 gilbert﻿ crocket.- high kickflip big pop Cory Kennedy - Bigspin double flip Cory Kennedy - Nollie late front foot double flip Cory Kennedy - bs 360 double flip pyramid hip Cory Kennedy - Switch laser double flip killing it Ryan Sheckler - nice tre flip over stairwell Paul Rodriguez - butter backside noseblunt flat hubba in New York Cory Kennedy - Merlin Twist at the Berrics Andrew Rynolds - Epic and historical backside flip down the Wallenberg 4 vincent luevanos - Textbook hard flip for the &lt;b&gt;...&lt;/b&gt;</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/iN1Umj3_bPc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">246</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=39lRkAOl1Hc">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">adidas Skateboarding Melbourne Feature</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Melbourne, Australia campaign shoot in March 2012 with Mark Gonzales, Dennis Busenitz, Silas Baxter-Neal, Pete Eldridge, Benny Fairfax, Nestor Judkins, Lem Villemin, Jake Donnelly, Vince del Valle, Chewy Cannon, and the Australia Team. Official Website: www.adidas.com Store Locator: bit.ly</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/39lRkAOl1Hc/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">491</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=KEZ9AxKKR6E">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">bobtrack downhill skateboarding</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">YOU WANT TO SEE MORE? www.youtube.com This video footage is for sale for professional use, please contact me! Everybody who wants to get the music please look here: Amazon: www.amazon.de iTunes: itunes.apple.com If you want to see me skating in real: please come to the "Beton on Fire" (www.betononfire.de) on August 27-29 in Altenberg, Germany!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/KEZ9AxKKR6E/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">345</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=n7nU-wwWMcw">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Think Skateboards - Business As Usual</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Don't call it a comeback, but Think skateboards is looking better than ever. If San Francisco street skating is worth its weight in gold, feast your eyes upon a fortune. Enjoy. Soundtrack - Intro - Liam the Younger - Door Interlude - Liam the Younger - Current Joys Josh Matthews #1 - Family Portrait - Other Side Josh Matthews #2 - Woods - Be All Easy Interlude 2 - Liam the Younger - Sleep pt3 Russ Milligan - Family Portrait - Killer Statements Interlude 3 - Yesterdays new Quintet - Sunrays Adrian Williams - Wu Tang Clan - I Can't Go To Sleep Danny Fuenzalida - Sad City - Jaya Cody Mcentire &amp; Dave Bachinsky - Buddy Guy - Baby Please Don't Leave Me Interlude 4 - Liam the Younger - Sleep pt1 Lee Yankou #1 - Ty Segall - My Head Explodes Lee Yankou #2 - Sonic Youth - Scooter + Jinx Credits - Julian Lynch - Garden 2 Big Thanks to Sawyer and the Underwater Peoples family for some amazing music. underwaterpeoples.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/n7nU-wwWMcw/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1573</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=6Oqxzk7LupQ">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Street League Skateboarding Finals</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Nyjah Huston wins the 2012 Street League Championship.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/6Oqxzk7LupQ/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">423</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=RxBseBwCKB0">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Adidas Skateboarding Frisco Feature</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">the adidas skateboarding team in san francisco</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/RxBseBwCKB0/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">212</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=XkclYFNBbpA">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">6 year old skateboarder Asher Bradshaw at Venice Beach Skatepark</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">FOLLOW ME ON TWITTER! www.twitter.com www.kickstarter.com to see Asher's new Movie Trailer! "SHReD: The Story of Asher Bradshaw. Support the campaign for the documentary about this amazing 6 year old skateboarding phenom who you may have seen at Venice skatepark in Venice beach California and spread the word! Asher skating on any given day in Venice. Email at peanutdad2002@yahoo.com. www.twitter.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/XkclYFNBbpA/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=zWjG9NEInkI">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Invisible Skateboards</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">The Invisible Skateboards section of Girl - Yeah Right! (2003) - Directed by Spike Jonze and Ty Evans - heavyhittas.com for more</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/zWjG9NEInkI/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=va1v6Drp5Gc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=CQzUsTFqtW0">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=iN1Umj3_bPc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=39lRkAOl1Hc">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=KEZ9AxKKR6E">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=n7nU-wwWMcw">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=6Oqxzk7LupQ">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=RxBseBwCKB0">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=XkclYFNBbpA">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=zWjG9NEInkI">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Skateboarding"/>
+</rdf:Description>
+
+</rdf:RDF>

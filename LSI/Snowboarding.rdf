@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://upload.wikimedia.org/wikipedia/en/7/76/Snow_boarders.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/m/Snow_boarders_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/s/Snow_boarders_s.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/sq/Snow_boarders_sq.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/t/Snow_boarders_t.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/l/Snowboarder_in_flight_28Tannheim_2C_Austria_29_l.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/m/Snowboarder_in_flight_28Tannheim_2C_Austria_29_m.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://upload.wikimedia.org/wikipedia/commons/4/47/Snowboarder_in_flight_%28Tannheim%2C_Austria%29.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/s/Snowboarder_in_flight_28Tannheim_2C_Austria_29_s.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/sq/Snowboarder_in_flight_28Tannheim_2C_Austria_29_sq.jpg">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://upload.wikimedia.org/wikipedia/en/7/76/Snow_boarders.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/m/Snow_boarders_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/s/Snow_boarders_s.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/sq/Snow_boarders_sq.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/t/Snow_boarders_t.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/l/Snowboarder_in_flight_28Tannheim_2C_Austria_29_l.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/m/Snowboarder_in_flight_28Tannheim_2C_Austria_29_m.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://upload.wikimedia.org/wikipedia/commons/4/47/Snowboarder_in_flight_%28Tannheim%2C_Austria%29.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/s/Snowboarder_in_flight_28Tannheim_2C_Austria_29_s.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://images.ookaboo.com/photo/sq/Snowboarder_in_flight_28Tannheim_2C_Austria_29_sq.jpg">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Snowboarding"/>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Z7jDxUk1g7k">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning Interlaken</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Rappel, slide, and jump down rocks and waterfalls into the white water filled Saxeten canyon. Our local canyon covers every aspect of the sport and makes a great introduction to canyoning. A short five minute drive from our base, Saxeten is suitable for everyone.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/Z7jDxUk1g7k/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=hxLLbiebvr4">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">EXTREME CANYONING DALAT</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">★GET THE MOTORBIKING VIETNAM GUIDE NOW bit.ly ★ facebook.com twitter.com We spent a day canyoning at Dalat in Vietnam. What an amazing day of cliff jumps, abseiling, and natural water slides. Not to forget the spectacular scenery.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/hxLLbiebvr4/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">253</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=a9Clft5zMbY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning en Isère</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning dans le massif du Vercors, avec les guides de haute montagne Alp'escapade. D'autres informations sur www.alpescapade.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/a9Clft5zMbY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">211</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=dckf-M3fDFM">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning Switzerland</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning in the Swiss Alps</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/dckf-M3fDFM/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">671</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=FnNmcrvKjK4">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Chamjé Khola - Canyoning Himalaya</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">FAV/LIKES Please:) goo.gl Click Here for Top 10 Climbing Films! CHAMJÉ KHOLA - CANYONING HIMALAYA The story about exploring one of the biggest canyons in the world. The Chamjé Khola canyon is located right in the heart of Nepalese Himalaya, between the Annapurnas (8091m) and Manaslu (8163m) mountains. The himalayan canyon Team, a French association, opened there more than 30 canyons since 2004, but they had to wait until 2011 to be ready to face the monster......... Chamjé Khola. Its final exploration required 5 days of effort, with a delicate and snowy access at high altitude, for a 7km﻿ total length of canyon and 2300m of elevation! Led by Rodolphe Sturm, we can appreciate perfectly how the team prepared the challenge, faced the severe problems they had to confront, and how the alchemy between these strong personalities, left place to an unwavering common energy! The longest and most committed canyon﻿ ever done.﻿ The X-Treme Channel features awesome extreme sports action from all over the world! Subscribe To X-Treme Here: goo.gl Website: www.x-tremevideo.com Twitter twitter.com Facebook: www.facebook.com</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/FnNmcrvKjK4/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=qCdcuhZQUSY">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning Grimsel 2012</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Set in a majestic alpine environment on a mountain pass the Grimsel trip starts with a breath-taking 50m rappel and continues with amazing jumps, ziplines and slides into crystal clear pools. The pale-coloured rock formations in this canyon add to the stunning mountain scenery. Canyoning Grimsel is suitable for most people. Digital video service available -- a professional video guide will travel the canyon with you taking great footage of all the beauty and uniqueness of your experience- order your personalized and edited video in advance!</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/qCdcuhZQUSY/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=RcEbjwZt73Y">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning Südtirol</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">ProAlps is a small company that makes your holiday become an adventure! Canyoning in the Valle Aurina (Ahrntal) close to the Dolomites is just one of many activities offered! Music by Brad Sucks - Dropping Out Of School</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/RcEbjwZt73Y/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=TQ_ilI5Pn9s">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning Interlaken 2012</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Our local canyon covers every aspect of the sport and makes a great introduction to canyoning. The tall and majestic canyon walls give a real feeling of being back in nature as you travel through the narrow gorges. Short and sweet this half day canyon is all you will need to get thirsty for more! This canyon is only a short five minute drive from our base.</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/TQ_ilI5Pn9s/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=jf-R2VZvwig">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning - Action in Bergen &amp; Schluchten</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">www.bergleben.de - Ein Sport, der nichts für Weicheier ist. Kalte Flüsse, hohe Sprünge, rasante Rutschpartien. Beim Canyoning geht so einiges...</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/jf-R2VZvwig/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=hXsO3RePX7A">
+	<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+	<title xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning Outdoor Planet Vione I + II</title>
+	<description xmlns="http://www.w3.org/ns/ma-ont#" rdf:parseType="Literal">Canyoning in the mountains at the west side of the Garda Lake(Italy)</description>
+	<img xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://i.ytimg.com/vi/hXsO3RePX7A/0.jpg"/>
+	<duration xmlns="http://www.w3.org/ns/ma-ont#" rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326</duration>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=Z7jDxUk1g7k">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=hxLLbiebvr4">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=a9Clft5zMbY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=dckf-M3fDFM">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=FnNmcrvKjK4">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=qCdcuhZQUSY">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=RcEbjwZt73Y">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=TQ_ilI5Pn9s">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=jf-R2VZvwig">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.youtube.com/watch?v=hXsO3RePX7A">
+	<hasKeyword xmlns="http://www.w3.org/ns/ma-ont#" rdf:resource="http://dbpedia.org/resource/Canyoning"/>
+</rdf:Description>
+
+</rdf:RDF>
